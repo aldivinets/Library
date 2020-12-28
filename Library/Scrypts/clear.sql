@@ -1,0 +1,14 @@
+USE [TestLibDb]
+GO
+
+DELETE FROM Books
+GO
+
+DELETE FROM Authors
+GO
+
+DELETE FROM Categories
+GO
+
+DELETE FROM BookCategory
+GO
